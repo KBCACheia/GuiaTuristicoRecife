@@ -1,0 +1,37 @@
+[
+    {
+        "nome": "Cemitério de Santo Amaro ",
+        "endereco": "Rua Marquês do Pombal",
+        "bairro": "Santo Amaro",
+        "latitude": -8.05037,
+        "longitude": -34.883698
+    },
+    {
+        "nome": "Cemitério Parque das Flores",
+        "endereco": "Avenida Liberdade, s/n",
+        "bairro": "Tejipió",
+        "latitude": -8.082058,
+        "longitude": -34.96029
+    },
+    {
+        "nome": "Cemitério de Casa Amarela",
+        "endereco": "Largo de Casa Amarela, s/n",
+        "bairro": "Casa Amarela",
+        "latitude": -8.02617,
+        "longitude": -34.918453
+    },
+    {
+        "nome": "Cemitério da Várzea",
+        "endereco": "Rua Professor Artur de Sá, s/n",
+        "bairro": "Várzea",
+        "latitude": -8.046498,
+        "longitude": -34.952873
+    },
+    {
+        "nome": "Cemitério de Tejipió",
+        "endereco": "Rua Alto do São Pedro, s/n",
+        "bairro": "Tejipió",
+        "latitude": -8.095771,
+        "longitude": -34.9634
+    }
+]

@@ -1,0 +1,345 @@
+[
+    {
+        "nomePopular": "Baobá",
+        "nomeCientifico": "Adansonia digitata L.",
+        "endereco": "Rua Marques de Tamandaré, 160 - Casa Forte - na frente do poste 9/389",
+        "latitude": -8.032664,
+        "longitude": -34.92488
+    },
+    {
+        "nomePopular": "Palmeira Imperial",
+        "nomeCientifico": "Roystonea oleracea Cook",
+        "endereco": "Av. Dom Manoel Medeiros ? Dois Irmãos - Praça ? na frente do poste  73/95",
+        "latitude": -8.015821,
+        "longitude": -34.94412
+    },
+    {
+        "nomePopular": "Jaqueira",
+        "nomeCientifico": "Artocarpus heterophylla Lam.",
+        "endereco": "Rua Major Nereu Guerra / Rua Dr. Carlos Mavignier - Casa Amarela - ao lado do n°166",
+        "latitude": -8.025705,
+        "longitude": -34.91469
+    },
+    {
+        "nomePopular": "Carolina",
+        "nomeCientifico": "Pachira aquatica Aubl.",
+        "endereco": "Rua José  Alexandre Caçador - Rosarinho - em frente ao ferro velho",
+        "latitude": -8.031077,
+        "longitude": -34.89486
+    },
+    {
+        "nomePopular": "Carolina",
+        "nomeCientifico": "Pachira aquatica Aubl",
+        "endereco": "Av. Santos Dumont ? Rosarinho - na frente dos postes 69/289 e 71/289 n° 1376",
+        "latitude": -8.030145,
+        "longitude": -34.895046
+    },
+    {
+        "nomePopular": "Baobá",
+        "nomeCientifico": "Adansonia digitata L.",
+        "endereco": "Coronel Urbano, 517 - Fundão de Dentro",
+        "latitude": -8.016696,
+        "longitude": -34.88617
+    },
+    {
+        "nomePopular": "Gameleira",
+        "nomeCientifico": "Ficus sp.",
+        "endereco": "Sitio Pai Adão, 1644 - Estrada Velha de Água Fria ? Água Fria",
+        "latitude": -8.016696,
+        "longitude": -34.88617
+    },
+    {
+        "nomePopular": "Barriguda",
+        "nomeCientifico": "Ceiba pentandra (L.) Gaertn",
+        "endereco": "Rua Julio Lima - Água Fria - ao lado do imóvel 32",
+        "latitude": -8.020376,
+        "longitude": -34.9019
+    },
+    {
+        "nomePopular": "Barriguda",
+        "nomeCientifico": "Ceiba pentandra (L.) Gaertn",
+        "endereco": "Rua Julio Lima - Água Fria - ao lado do imóvel 256",
+        "latitude": -8.019418,
+        "longitude": -34.90191
+    },
+    {
+        "nomePopular": "Cajueiro",
+        "nomeCientifico": "Anacardium occidentale L.",
+        "endereco": "Rua Padre Roma, 375 ? Ed. Via Mariana ? Parnamirim",
+        "latitude": -8.033488,
+        "longitude": -34.90711
+    },
+    {
+        "nomePopular": "Barriguda",
+        "nomeCientifico": "Ceiba pentandra (L.) Gaertn",
+        "endereco": "Rua Sebastião Alves, 220 - Ed. Príncipe de Orange - Parnamirim - na frente do poste 12/295",
+        "latitude": -8.032485,
+        "longitude": -34.906994
+    },
+    {
+        "nomePopular": "Baóba",
+        "nomeCientifico": "Adansonia digitata L.",
+        "endereco": "Rua Madre Loyola ? Jaqueira ? à margem do rio Capibaribe",
+        "latitude": -8.04123,
+        "longitude": -34.904396
+    },
+    {
+        "nomePopular": "Baóba",
+        "nomeCientifico": "Adansonia digitata L.",
+        "endereco": "Estrada Velha do Bongi, 425 ? AT Bongi",
+        "latitude": -8.067814,
+        "longitude": -34.913227
+    },
+    {
+        "nomePopular": "Baóba",
+        "nomeCientifico": "Adansonia digitata L.",
+        "endereco": "Estrada Velha do Bongi, 425 ? AT Bongi",
+        "latitude": -8.067869,
+        "longitude": -34.913147
+    },
+    {
+        "nomePopular": "Baóba",
+        "nomeCientifico": "Adansonia digitata L.",
+        "endereco": "Estrada Velha do Bongi, 425 ? AT Bongi",
+        "latitude": -8.067905,
+        "longitude": -34.91324
+    },
+    {
+        "nomePopular": "Gameleira",
+        "nomeCientifico": "Ficus sp.",
+        "endereco": "Rua Conselheiro Portela / Barão de Itamaracá ? Espinheiro - ao lado da Matriz do Espinheiro",
+        "latitude": -8.042669,
+        "longitude": -34.89446
+    },
+    {
+        "nomePopular": "Baobá",
+        "nomeCientifico": "Adansonia digitata L.",
+        "endereco": "Rua das Princesas, Praça Republica ? Santo Antônio - em frente ao Palácio do Governo",
+        "latitude": -8.060504,
+        "longitude": -34.877308
+    },
+    {
+        "nomePopular": "Barriguda",
+        "nomeCientifico": "Ceiba pentandra (L.) Gaertn",
+        "endereco": "Rua Desembargador João Paes - Boa Viagem",
+        "latitude": -8.125923,
+        "longitude": -34.90463
+    },
+    {
+        "nomePopular": "Mangueira",
+        "nomeCientifico": "Mangifera indica L.",
+        "endereco": "Rua Astronauta Neil Armstrong, 42 ? Tamarineira",
+        "latitude": -8.028911,
+        "longitude": -34.909573
+    },
+    {
+        "nomePopular": "Mangueira",
+        "nomeCientifico": "Mangifera indica L.",
+        "endereco": "Rua Astronauta Neil Armstrong, 42 ? Tamarineira",
+        "latitude": -8.029019,
+        "longitude": -34.909607
+    },
+    {
+        "nomePopular": "Sapotizeiro",
+        "nomeCientifico": "Achas sapota L.",
+        "endereco": "Rua Astronauta Neil Armstrong, 42 ? Tamarineira",
+        "latitude": -8.029019,
+        "longitude": -34.909626
+    },
+    {
+        "nomePopular": "Mangueira",
+        "nomeCientifico": "Mangifera indica L.",
+        "endereco": "Rua Astronauta Neil Armstrong, 42 ? Tamarineira",
+        "latitude": -8.029019,
+        "longitude": -34.90962
+    },
+    {
+        "nomePopular": "Mangueira",
+        "nomeCientifico": "Mangifera indica L.",
+        "endereco": "Rua Astronauta Neil Armstrong, 42 ? Tamarineira",
+        "latitude": -8.029182,
+        "longitude": -34.9097
+    },
+    {
+        "nomePopular": "Jaqueira",
+        "nomeCientifico": "Artocarpus heterophylla Lam.",
+        "endereco": "Rua Astronauta Neil Armstrong - Casa Amarela",
+        "latitude": -8.029281,
+        "longitude": -34.909637
+    },
+    {
+        "nomePopular": "Mangueira",
+        "nomeCientifico": "Mangifera indica L.",
+        "endereco": "Rua Astronauta Neil Armstrong, 42 ? Tamarineira",
+        "latitude": -8.029281,
+        "longitude": -34.909756
+    },
+    {
+        "nomePopular": "Mangueira",
+        "nomeCientifico": "Mangifera indica L.",
+        "endereco": "Rua Astronauta Neil Armstrong, 42 ? Tamarineira",
+        "latitude": -8.029498,
+        "longitude": -34.90983
+    },
+    {
+        "nomePopular": "Jaqueira",
+        "nomeCientifico": "Artocarpus heterophylla  Lam.",
+        "endereco": "Rua Astronauta Neil Armstrong, 42 ? Tamarineira",
+        "latitude": -8.029615,
+        "longitude": -34.909863
+    },
+    {
+        "nomePopular": "Mangueira",
+        "nomeCientifico": "Mangifera indica L.",
+        "endereco": "Rua Astronauta Neil Armstrong - Casa Amarela",
+        "latitude": -8.030003,
+        "longitude": -34.910038
+    },
+    {
+        "nomePopular": "Mangueira",
+        "nomeCientifico": "Mangifera indica L.",
+        "endereco": "Rua Astronauta Neil Armstrong, 42 ? Tamarineira",
+        "latitude": -8.029813,
+        "longitude": -34.909973
+    },
+    {
+        "nomePopular": "Barriguda",
+        "nomeCientifico": "Ceiba pentandra (L.) Gaertn",
+        "endereco": "Av. 17 de agosto, 2388 ? Casa Forte",
+        "latitude": -8.028549,
+        "longitude": -34.92525
+    },
+    {
+        "nomePopular": "Barriguda",
+        "nomeCientifico": "Ceiba pentandra (L.) Gaertn",
+        "endereco": "Av. Acadêmico Helio Ramos, s/n ? Cidade Universitária - Jardim Interno do Centro de Tec. e Geo. da UFPE",
+        "latitude": -8.052992,
+        "longitude": -34.954494
+    },
+    {
+        "nomePopular": "Baobá",
+        "nomeCientifico": "Adansonia digitata L.",
+        "endereco": "Centro de Ciências Aplicadas da UFPE ? Cidade Universitária",
+        "latitude": -8.048706,
+        "longitude": -34.95091
+    },
+    {
+        "nomePopular": "Baobá",
+        "nomeCientifico": "Adansonia digitata L.",
+        "endereco": "Girador atrás do Mercado da Encruzilhada ? Encruzilhada",
+        "latitude": -8.036232,
+        "longitude": -34.89238
+    },
+    {
+        "nomePopular": "Baobá",
+        "nomeCientifico": "Adansonia digitata L.",
+        "endereco": "Parque da Jaqueira - Jaqueira",
+        "latitude": -8.036981,
+        "longitude": -34.90441
+    },
+    {
+        "nomePopular": "Sapotizeiro",
+        "nomeCientifico": "Achas sapota L.",
+        "endereco": "Rua Abdias de Carvalho, s/n ? Ilha do Retiro - SPORT Club do Recife",
+        "latitude": -8.061905,
+        "longitude": -34.90284
+    },
+    {
+        "nomePopular": "Mangueira",
+        "nomeCientifico": "Mangifera indica L.",
+        "endereco": "Rua Joaquim Xavier de Andrade, 151 ? Poço da Panela",
+        "latitude": -8.039522,
+        "longitude": -34.9219
+    },
+    {
+        "nomePopular": "Mangueira",
+        "nomeCientifico": "Mangifera indica L.",
+        "endereco": "Rua Joaquim Xavier de Andrade, 117 ? Poço da Panela",
+        "latitude": -8.039513,
+        "longitude": -34.921764
+    },
+    {
+        "nomePopular": "Cajazeira",
+        "nomeCientifico": "Spondias mombin L.",
+        "endereco": "Rua Joaquim Xavier de Andrade, 136 ? Poço da Panela",
+        "latitude": -8.039558,
+        "longitude": -34.92183
+    },
+    {
+        "nomePopular": "Baobá",
+        "nomeCientifico": "Adansonia digitata L.",
+        "endereco": "Rua Princesa Isabel ? Praça Adolfo Cirne ? Boa Vista",
+        "latitude": -8.057983,
+        "longitude": -34.882755
+    },
+    {
+        "nomePopular": "Jaqueira",
+        "nomeCientifico": "Artocarpus heterophylla Lam.",
+        "endereco": "Parque da Jaqueira - Jaqueira",
+        "latitude": -8.037474,
+        "longitude": -34.90535
+    },
+    {
+        "nomePopular": "Pau-de-jangada",
+        "nomeCientifico": "Apeiba tibourbou Aubl.",
+        "endereco": "Parque de Santana - Santana",
+        "latitude": -8.041615,
+        "longitude": -34.918945
+    },
+    {
+        "nomePopular": "Gameleira",
+        "nomeCientifico": "Fícus sp.",
+        "endereco": "Rua Mamede Coelho, 231 - Dois Unidos - Terreiro Ilê Oba Okoloyiá",
+        "latitude": -8.003674,
+        "longitude": -34.902668
+    },
+    {
+        "nomePopular": "Baobá",
+        "nomeCientifico": "Adansonia digitata L.",
+        "endereco": "Praça Dr. Arnaldo Assunção, próxima ao terminal - Engenho do Meio",
+        "latitude": -8.056926,
+        "longitude": -34.942783
+    },
+    {
+        "nomePopular": "Pau-Brasil",
+        "nomeCientifico": "Caesalpinia echinata - Lam",
+        "endereco": "Av. Agamenon Magalhães, 2978 ? Espinheiro - CREA-PE",
+        "latitude": -8.047965,
+        "longitude": -34.8929
+    },
+    {
+        "nomePopular": "Baobá",
+        "nomeCientifico": "Adansonia digitata L.",
+        "endereco": "Av. Paulo Afonso, s/n - Barro - Escola Olindina Alves Semente",
+        "latitude": -8.088424,
+        "longitude": -34.94249
+    },
+    {
+        "nomePopular": "Guapuruvu",
+        "nomeCientifico": "Shizolobium parahyba (Vell.) S.F.Blake",
+        "endereco": "Av. Dom Manoel de Medeiros, s/n - Dois Irmãos - Fundos do prédio de Tecnologia Rural da UFRPE",
+        "latitude": -8.013458,
+        "longitude": -34.918015
+    },
+    {
+        "nomePopular": "Pau Mulato",
+        "nomeCientifico": "Calicophyllum parahyba (Benth.) Hool. F. Ex K. Shum",
+        "endereco": "Av. Dom Manoel de Medeiros, s/n - Dois Irmãos - Fundos do prédio de Tecnologia Rural da UFRPE",
+        "latitude": -8.016546,
+        "longitude": -34.945786
+    },
+    {
+        "nomePopular": "Macaibeira",
+        "nomeCientifico": "Acroconomia intumescens Drude",
+        "endereco": "Confluência das ruas Henrique Machado com Ambrosina Carneiro, em frente a casa dos Humildes, s/n - Santana, Casa Forte",
+        "latitude": -8.016926,
+        "longitude": -34.94572
+    },
+    {
+        "nomePopular": "Cajueiro",
+        "nomeCientifico": "Anacardium occidentale L.",
+        "endereco": "Av. Dom Manoel de Medeiros, s/n - Dois Irmãos - Pátio interno do estacionamento do prédio de Veterinária da UFRPE",
+        "latitude": -8.014254,
+        "longitude": -34.948566
+    }
+]

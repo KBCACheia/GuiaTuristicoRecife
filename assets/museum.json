@@ -1,0 +1,92 @@
+[
+    {
+        "nome": "﻿Museu do Homem do Nordeste",
+        "endereco": "Av. Dezessete de Agosto, 2187",
+        "bairro": "Casa Forte",
+        "descricao": "são cerca de 15 mil peças no acervo retratando a formação do povo nordestino, considerado um dos mais importantes museus antropológicos brasileiros. ",
+        "telefone": "(81) 3073-6340",
+        "site": "http://www.fundaj.gov.br/",
+        "latitude": -8.030196,
+        "longitude": -34.92528
+    },
+    {
+        "nome": "Museu Murilo La Greca",
+        "endereco": "R. Leonardo Bezerra Cavalcante, 366",
+        "bairro": "Parnamirim",
+        "descricao": "no Parnamirim, os amantes da arte contemporânea conhecerão o acervo de 1,4 mil desenhos de Murilo La Greca em técnicas diversas. No local, também são guardadas 160 pinturas e cartas trocadas pelo artista com Portinari e Giacometti.",
+        "telefone": "(81)3355-3126",
+        "site": "http://museumurillolagreca.com.br/",
+        "latitude": -8.037325,
+        "longitude": -34.909832
+    },
+    {
+        "nome": "Museu da Cidade do Recife",
+        "endereco": "Praça das cinco pontas",
+        "bairro": "São José",
+        "descricao": "fica dentro do Forte das Cinco Pontas, construção holandesa de 1630. No local, o visitante pode desfrutar de um extenso acervo de documentos iconográficos sobre o Recife, além de 150 mil imagens de antigas residências e peças religiosas.",
+        "telefone": "(81)-33552812",
+        "site": "http://www.recife.pe.gov.br/cultura/museucidade.php",
+        "latitude": -8.071313,
+        "longitude": -34.88081
+    },
+    {
+        "nome": "Museu Militar",
+        "endereco": "Av. Militar, s/n",
+        "bairro": "Recife",
+        "descricao": "está no Forte do Brum, no Bairro do Recife. O forte foi construído no século XVI para segurança e proteção da povoação do Recife, além de ter sido cenário de inúmeros acontecimentos históricos. ",
+        "telefone": "(81) 3224-4620",
+        "site": "",
+        "latitude": -8.052803,
+        "longitude": -34.87141
+    },
+    {
+        "nome": "Museu de Arte Moderna Aloísio Magalhães (Mamam)",
+        "endereco": "Rua da Aurora 265",
+        "bairro": "Boa Vista",
+        "descricao": "integra o circuito de museus de arte moderna do Brasil e tem seu forte nas exposições temporárias.",
+        "telefone": "(81) 3355-6870",
+        "site": "http://www.mamam.art.br/",
+        "latitude": -8.061285,
+        "longitude": -34.881393
+    },
+    {
+        "nome": "Museu Franciscano de Arte Sacra",
+        "endereco": "R. Imperador Dom Pedro II, 57",
+        "bairro": " Santo Antônio",
+        "descricao": "no bairro de Santo Antônio, os visitantes podem observar valiosas peças do catolicismo no Recife e desfrutar da beleza da Capela Dourada, datada de 1696, um dos melhores exemplos da arte sacra e do estilo barroco brasileiro. ",
+        "telefone": "",
+        "site": "",
+        "latitude": -8.062427,
+        "longitude": -34.87723
+    },
+    {
+        "nome": "Casa-Museu Magdalena e Gilberto Freyre",
+        "endereco": "Rua Jorge Tasso Neto",
+        "bairro": "Apipucos",
+        "descricao": "no bairro de Apipucos, onde o escritor viveu por mais de 40 anos, totalmente conservada com objetos, móveis e livros, exatamente na mesma posição como eram no tempo de Gilberto Freyre. ",
+        "telefone": "(81) 3441-2883",
+        "site": "http://www.fgf.org.br/index.html",
+        "latitude": -8.020598,
+        "longitude": -34.93848
+    },
+    {
+        "nome": "Oficina Brennand",
+        "endereco": "Propriedade Santos Cosme e Damião, s/n",
+        "bairro": "Várzea",
+        "descricao": "na Várzea, reunindo as obras do artista plástico Francisco Brennand, conhecido em várias partes do mundo e considerado um dos expoentes das artes plásticas contemporâneas. O espaço abriga mais de 2 mil esculturas, além de painéis, murais, quadros e desenhos do artista. Outros dois pontos para conferir suas obras é no Parque das Esculturas de Francisco Brennand, no molhe do Porto do Recife, e o Pátio das Esculturas do Shopping Recife, que reúne peças de vários artistas consagrados.",
+        "telefone": "(81)3271-2466",
+        "site": "http://www.brennand.com.br",
+        "latitude": -8.052569,
+        "longitude": -34.974796
+    },
+    {
+        "nome": "Instituto Ricardo Brennand (IRB)",
+        "endereco": " Alameda Antônio Brennand, s/n",
+        "bairro": "Várzea",
+        "descricao": "também na Várzea, é um castelo medieval que guarda uma fabulosa coleção de armas brancas, telas do Brasil Colonial, obras de arte de diversas épocas e procedências e a maior coleção privada do pintor holandês Frans Post. Destaque para a escultura de Botero e uma réplica de O pensador, de Rodin.",
+        "telefone": "(81)2121-0352/2121-0365",
+        "site": "http://www.institutoricardobrennand.org.br/",
+        "latitude": -8.065768,
+        "longitude": -34.964302
+    }
+]

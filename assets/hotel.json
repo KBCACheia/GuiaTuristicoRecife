@@ -1,0 +1,306 @@
+[
+    {
+        "nome": "Albergue Piratas da Praia Hostel",
+        "endereco": "Avenida Conselheiro Aguiar, nº 2034/307, 3º andar - Boa Viagem, Recife - PE- CEP: 51111-010",
+        "telefone": "(81) 3326 1281 / (81) 9649 6887",
+        "site": "www.piratasdapraia.com",
+        "latitude": -8.107019,
+        "longitude": -34.889534
+    },
+    {
+        "nome": "Boa Viagem Hostel",
+        "endereco": "Rua Aviador Severiano Lins, 455 - Boa Viagem, Recife - PE - CEP: 51111-050",
+        "telefone": "(81) 3326 9572 / Fax: (81) 3326 9572",
+        "site": "www.hostelboaviagem.com.br",
+        "latitude": -8.110046,
+        "longitude": -34.89432
+    },
+    {
+        "nome": "Imperial Suítes Flat",
+        "endereco": "Rua Antônio Lumack do Monte, 203, Boa Viagem, Recife - PE - CEP: 51.020-350",
+        "telefone": "(81)2122.0525",
+        "site": "",
+        "latitude": -8.117141,
+        "longitude": -34.901665
+    },
+    {
+        "nome": "MercureAptMetrópolis",
+        "endereco": "Rua Estado de Israel, 203, Ilha do leite, Recife - PE - CEP: 50.070-420",
+        "telefone": "81 3087 3700",
+        "site": "",
+        "latitude": -8.064499,
+        "longitude": -34.894287
+    },
+    {
+        "nome": "MercureApt Navegantes Residence Hotel",
+        "endereco": "Rua dos Navegantes, 1706. Boa Viagem, CEP: 51.020-010",
+        "telefone": "81 4009 1185",
+        "site": "www.mercure.com.br",
+        "latitude": -8.118182,
+        "longitude": -34.894833
+    },
+    {
+        "nome": "TulipInn Recife Flat",
+        "endereco": "Rua Dr. Luiz Inácio Pessoa de Melo, 81, Boa Viagem, Recife - PE - CEP: 51.030-320",
+        "telefone": "81 3202.8100",
+        "site": "",
+        "latitude": -8.139897,
+        "longitude": -34.905174
+    },
+    {
+        "nome": "Park Way Home Service",
+        "endereco": "Rua Professor João Medeiros, 675, Boa Viagem, Recife - PE - CEP: 51.021-370",
+        "telefone": "81 3465 6682",
+        "site": "",
+        "latitude": -8.123057,
+        "longitude": -34.9013
+    },
+    {
+        "nome": "Atlante Plaza",
+        "endereco": "Av. Boa Viagem, 5426, Boa Viagem, Recife - PE - CEP: 51.030-000",
+        "telefone": "81 3302 3333",
+        "site": "www.atlanteplaza.com.br",
+        "latitude": -8.136259,
+        "longitude": -34.90194
+    },
+    {
+        "nome": "Best Western Manibu Recife Hotel",
+        "endereco": "Av. Conselheiro Aguiar, 919, Boa Viagem, Recife - PE - CEP: 51.011-031",
+        "telefone": "81 3084 2811",
+        "site": "www.hotelmanibu.com.br",
+        "latitude": -8.098362,
+        "longitude": -34.88568
+    },
+    {
+        "nome": "Boa Viagem Praia H.W.F.",
+        "endereco": "AV. Boa Viagem, 5576, Boa Viagem, Recife - PE- CEP: 51.030-000",
+        "telefone": "81 3462 6454",
+        "site": "www.boaviagempraia.com.br",
+        "latitude": -8.137725,
+        "longitude": -34.90228
+    },
+    {
+        "nome": "Canárius Palace Hotel",
+        "endereco": "Rua dos Navegantes, 435, Boa Viagem, Recife- PE - CEP: 51.021-010",
+        "telefone": "81 3465 1532",
+        "site": "",
+        "latitude": -8.128326,
+        "longitude": -34.8992
+    },
+    {
+        "nome": "Central (Recife)",
+        "endereco": "Av. Manoel Borba, 209, Boa Vista, Recife - PE- CEP: 50.070-000",
+        "telefone": "81 3222 2353",
+        "site": "",
+        "latitude": -8.061025,
+        "longitude": -34.88761
+    },
+    {
+        "nome": "Fator Palace Hotel",
+        "endereco": "Rua dos Navegantes, 157, Boa Viagem, Recife - PE- CEP: 51.021-010",
+        "telefone": "81 3465 0040",
+        "site": "",
+        "latitude": -8.130763,
+        "longitude": -34.900063
+    },
+    {
+        "nome": "Golden Tulip recife Palace",
+        "endereco": "Av. Boa viagem, 4070, Recife - PE- CEP: 51.021-000",
+        "telefone": "81 32018200",
+        "site": "",
+        "latitude": -8.125075,
+        "longitude": -34.897205
+    },
+    {
+        "nome": "Hotel Vila Rica",
+        "endereco": "Av. Boa viagem, 4308, Boa Viagem, Recife - PE- CEP: 51.021-000",
+        "telefone": "81-2121. 5111",
+        "site": "",
+        "latitude": -8.127104,
+        "longitude": -34.8979
+    },
+    {
+        "nome": "Internacional Palace Lucsim Hotel",
+        "endereco": "Av. Boa Viagem, 3722, Boa Viagem, Recife - PE- CEP: 51.021-000",
+        "telefone": "81 4009 2500",
+        "site": "",
+        "latitude": -8.122091,
+        "longitude": -34.896282
+    },
+    {
+        "nome": "Jangadeiro (Friendly)",
+        "endereco": "Av. Boa Viagem, 3114, Boa Viagem, Recife - PE- CEP: 51.020-001",
+        "telefone": "81 3086 5052",
+        "site": "",
+        "latitude": -8.117279,
+        "longitude": -34.893448
+    },
+    {
+        "nome": "Mar Hotel Recife",
+        "endereco": "Av. Barão de Souza Leão, 451, Boa Viagem, Recife - PE- CEP: 51.030-300",
+        "telefone": "81 3086 5052",
+        "site": "",
+        "latitude": -8.131437,
+        "longitude": -34.90451
+    },
+    {
+        "nome": "Marante Plaza Hotel",
+        "endereco": "Av. Boa Viagem, 1070, Boa Viagem, Recife - PE- CEP: 51.011-000",
+        "telefone": "81 3465 1070",
+        "site": "",
+        "latitude": -8.101018,
+        "longitude": -34.885166
+    },
+    {
+        "nome": "Marolinda Cult Hotel (Friendly)",
+        "endereco": "Av. Conselheiro Aguiar, 755, Boa Viagem, Recife - PE- CEP: 51.011-051",
+        "telefone": "81 2123 2777",
+        "site": "",
+        "latitude": -8.097252,
+        "longitude": -34.88512
+    },
+    {
+        "nome": "Nacional Inn Recife",
+        "endereco": "Rua Ribeiro de Brito, 1250, Boa Viagem, Recife - PE- CEP: 51.021-310",
+        "telefone": "81 2123 1700",
+        "site": "",
+        "latitude": -8.122919,
+        "longitude": -34.908146
+    },
+    {
+        "nome": "Onda Mar Hotel",
+        "endereco": "Rua Ernesto de Paula Santos, 284, Boa Viagem, Recife - PE- CEP: 51.021-330",
+        "telefone": "81 2128 4848",
+        "site": "",
+        "latitude": -8.124916,
+        "longitude": -34.89894
+    },
+    {
+        "nome": "Park Hotel",
+        "endereco": "Rua dos Navegantes, 09, Boa Viagem, Recife - PE- Cep: 51.021-010",
+        "telefone": "81 2122 4666",
+        "site": "",
+        "latitude": -8.131554,
+        "longitude": -34.90042
+    },
+    {
+        "nome": "Recife Monte Hotel",
+        "endereco": "Rua dos Navegantes, 363, Boa Viagem, Recife- PE- CEP: 51.021-010",
+        "telefone": "81 2121 0909",
+        "site": "",
+        "latitude": -8.128835,
+        "longitude": -34.899414
+    },
+    {
+        "nome": "Recife Plaza Hotel",
+        "endereco": "Rua da Aurora, 225, Boa Vista, Recife - PE - CEP: 50.060-000",
+        "telefone": "81 3059 1200",
+        "site": "",
+        "latitude": -8.061737,
+        "longitude": -34.881668
+    },
+    {
+        "nome": "Recife praia hotel",
+        "endereco": "Av. Boa Viagem, 09, Pina, Recife - PE- CEP: 51.030-000",
+        "telefone": "81 2122 1100",
+        "site": "",
+        "latitude": -8.091448,
+        "longitude": -34.88214
+    },
+    {
+        "nome": "Tivoli recife (Friendly)",
+        "endereco": "Rua Tenente João Cícero, 47, Boa Viagem, Recife - PE- CEP: 51.020-190",
+        "telefone": "81 2127 4500",
+        "site": "",
+        "latitude": -8.113955,
+        "longitude": -34.892803
+    },
+    {
+        "nome": "Uzi Mar Hotel",
+        "endereco": "Av. Conselheiro Aguiar, 1015, Boa Viagem, Recife - PE- CEP: 51.011-031",
+        "telefone": "81 3326 6746",
+        "site": "",
+        "latitude": -8.099329,
+        "longitude": -34.8861
+    },
+    {
+        "nome": "Uzi Praia Hotel",
+        "endereco": "Av. Conselheiro Aguiar, 942, Boa Viagem, Recife - CEP: 51.011-031",
+        "telefone": "81 3466 9669",
+        "site": "",
+        "latitude": -8.09884,
+        "longitude": -34.885822
+    },
+    {
+        "nome": "Vela Branca Praia Hotel",
+        "endereco": "Av. Engenheiro Domingos Ferreira, 4395, Boa Viagem, Recife - PE- CEP: 51.021-040",
+        "telefone": "81 3465 3011",
+        "site": "",
+        "latitude": -8.128294,
+        "longitude": -34.90155
+    },
+    {
+        "nome": "Guyamar",
+        "endereco": "Rua Barão de Souza Leão, nº 1279, Recife - PE-CEP: 51030-300",
+        "telefone": "81 33428184",
+        "site": "",
+        "latitude": -8.132861,
+        "longitude": -34.91155
+    },
+    {
+        "nome": "Pousada Casa Forte",
+        "endereco": "Av. 17 de Agosto, 735, Casa Forte, Recife - PE- CEP: 52.060-590",
+        "telefone": "81 3268 7699",
+        "site": "",
+        "latitude": -8.037622,
+        "longitude": -34.915413
+    },
+    {
+        "nome": "Pousada Rosa e Silva",
+        "endereco": "Av. Cons. Rosa e Silva, 1599, Aflitos, Recife -PE- CEP: 52.050-020",
+        "telefone": "81 3241 3849",
+        "site": "",
+        "latitude": -8.038052,
+        "longitude": -34.900745
+    },
+    {
+        "nome": "Villa Boa Vista",
+        "endereco": "Rua Miguel Couto, 81, Boa Vista, Recife - PE - CEP: 50.070-150",
+        "telefone": "81 3223 0662",
+        "site": "",
+        "latitude": -8.057009,
+        "longitude": -34.89698
+    },
+    {
+        "nome": "Vitória",
+        "endereco": "Rua Capitão Zuzinha, 234, Boa Viagem, Recife -PE- CEP: 51.030-420",
+        "telefone": "81 3462 6446",
+        "site": "",
+        "latitude": -8.133848,
+        "longitude": -34.904938
+    },
+    {
+        "nome": "ibis Recife",
+        "endereco": "AV. Domingos Ferreira, 683, Pina, Recife - PE- CEP: 51011 -051",
+        "telefone": "81 33343434",
+        "site": "http://www.ibis.com/pt/hotel-6000-ibis-recife-opening-may-2013/index.shtml",
+        "latitude": -8.095951,
+        "longitude": -34.885918
+    },
+    {
+        "nome": "Bianca Praia Hotel",
+        "endereco": "Rua Mamanguape, 142, Boa Viagem, Recife, PE",
+        "telefone": "81 3327 0958",
+        "site": "http://www.biancapraiahotel.com.br/novo/",
+        "latitude": -8.116738,
+        "longitude": -34.895615
+    },
+    {
+        "nome": "Hotel Aconchego",
+        "endereco": "Rua Félix de Brito Melo, 382, Boa Viagem, Recife-PE- CEP: 51020-260",
+        "telefone": "81 3464 2989",
+        "site": "http://www.hotelaconchego.com.br/",
+        "latitude": -8.117025,
+        "longitude": -34.897182
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "nome": "Teatro do Parque",
+        "endereco": "Rua do Hospício, 81 ",
+        "bairro": "Boa Vista",
+        "telefone": "(81)3355-1553",
+        "latitude": -8.061976,
+        "longitude": -34.884743
+    },
+    {
+        "nome": "Teatro Barreto Júnior",
+        "endereco": "Endereço: Rua Estudante Jeremias Bastos, s/n",
+        "bairro": "Pina",
+        "telefone": "(81) 3355-6398  / 3355-6399",
+        "latitude": -8.090579,
+        "longitude": -34.884094
+    },
+    {
+        "nome": "Teatro de Santa Isabel",
+        "endereco": "Praça da República, s/n",
+        "bairro": "Santo Antônio",
+        "telefone": "(81) 3355.3323 /  3355-3324",
+        "latitude": -8.060693,
+        "longitude": -34.87814
+    },
+    {
+        "nome": "Teatro Apolo",
+        "endereco": "Rua do Apolo, 121",
+        "bairro": "Recife",
+        "telefone": "(81) 3355-3320 / 3355-3321",
+        "latitude": -8.061439,
+        "longitude": -34.872536
+    },
+    {
+        "nome": "Teatro Hermilo Borba Filho",
+        "endereco": "Cais do Apolo, s/n",
+        "bairro": "Recife",
+        "telefone": "(81) 3355-3320 / 3355-3321",
+        "latitude": -8.06183,
+        "longitude": -34.872795
+    },
+    {
+        "nome": "Teatro Luiz Mendonça",
+        "endereco": "Av. Boa Viagem, s/n",
+        "bairro": "Boa Viagem",
+        "telefone": "(81) 3355-9821 / 3355-9823",
+        "latitude": -8.141965,
+        "longitude": -34.903683
+    }
+]
